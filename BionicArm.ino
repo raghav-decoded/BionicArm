@@ -1,7 +1,8 @@
-/* Author: Raghav Singh
-  Version 1.0.0
-  In this project I made a Bionic Arm using Arduino, Servo Motors and Potentiometers.
+/*  Author: Raghav Singh
+    BIONIC ARM V1.0.0 and V1.1.0
+    In this project I made a Bionic Arm using Arduino, Servo Motors and Potentiometers.
 */
+
 #include <Servo.h> //Loading the servo library
 int pos = 0 ; //Declare and initialize pos variable
 int pos1 = 0 ;
