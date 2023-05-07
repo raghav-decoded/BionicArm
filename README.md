@@ -1,11 +1,12 @@
 # BionicArm
 
 In this project I have made a Bionic Arm using microcontrollers.
+
 V1.0.0
   Arduino MEGA 2560
   Servo Motor SG990
   
-V.1.1.0
+V1.1.0
   3D Printed Body
   Arduino MEGA 2560
   Servo Motor MG996R
